@@ -6,6 +6,16 @@ SKYSCRAPER(Formerly TALLBOI)
 
 ![back](Render/render_back.png?raw=true)
 
+Technical specifications:
+Case Size: 510x330x80(excluding feet and handle)
+Case Volume: 13.464L
+Materials: 2mm Stainless Steel for chassis, Stainless steel or aluminum for other parts
+Graphics Card: Dual Slot full size
+Motherboard: ITX
+Power Supply: SFX, SFX-L
+Drive: 2.5" HDD/SSD
+Front IO: 2 x USB 3.0
+
 Where can you get the parts:
 
 PCI-e extension:
