@@ -1,4 +1,4 @@
-**SKYSCRAPER(Formerly TALLBOI)
+**SKYSCRAPER(Formerly TALLBOI)**
 
 ![front](Render/fullrender.png?raw=true)
 
@@ -6,7 +6,7 @@
 
 ![back](Render/render_back.png?raw=true)
 
-Technical specifications:
+**Technical specifications:**
 
 Case Size: 510x330x80(excluding feet and handle)
 
@@ -24,7 +24,7 @@ Drive: 2.5" HDD/SSD
 
 Front IO: 2 x USB 3.0
 
-**Where can you get the parts:
+**Where can you get the parts:**
 
 PCI-e extension:
 https://item.taobao.com/item.htm?spm=a230r.1.14.20.38d0516f6DfNf8&id=548248538476&ns=1&abbucket=3#detail
