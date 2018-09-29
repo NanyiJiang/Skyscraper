@@ -1,5 +1,10 @@
 SKYSCRAPER(Formerly TALLBOI)
 
+![front](Render/fullrender.png?raw=true)
+
+![back](Render/render_back.png?raw=true)
+
+![caption](Render/component%20-%20caption.png?raw=true)
 
 Where can you get the parts:
 
